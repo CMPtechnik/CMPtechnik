@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CMPtechnik
 - 👀 I’m interested in Apple and Linux systems
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on the most advanced smarthome
 - 📫 How to reach me info@theapplegeek.co.uk
 
 <!---

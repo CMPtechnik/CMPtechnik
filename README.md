@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @CMPtechnik
 - 👀 I’m interested in Apple and Linux systems
+- 💽 Complete MiniDisc nerd
 - 🌱 I’m currently working on the most advanced smarthome
 - 📫 How to reach me info@theapplegeek.co.uk
 

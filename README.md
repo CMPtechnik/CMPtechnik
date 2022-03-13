@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CMPtechnik
+- 👋 Hi, I’m @CMPtechnik aka The Apple Geek
 - 👀 I’m interested in Apple and Linux systems
 - 💽 Complete MiniDisc nerd
 - 🌱 I’m currently working on the most advanced smarthome
